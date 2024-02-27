@@ -1,0 +1,7 @@
+[build]
+builder = "dockerfile"
+dockerfilePath = "./WebApiDeployExample/Dockerfile"
+
+[deploy]
+startCommand = "dotnet WebApiDeployExample.dll"
+restartPolicyType = "never"
