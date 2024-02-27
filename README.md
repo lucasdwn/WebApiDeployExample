@@ -1,4 +1,4 @@
-# Deploy .NET API to Railway App
+# TUTORIAL: Deploy .NET WebAPI grátis no RailwayApp utilizando Docker!
 <hr>
 
 # O que é o Railway App
@@ -11,7 +11,7 @@ No Railway é possivel você implementar aplicações de diversas linguagens, ba
 
 # Implementar uma Web Api .NET no Railway APP
 
-Nosso objetivo é implementar uma WebApi .NET no Railway App, utilizando o mesmo método podemos implementar projetos MVC e talvez outros tipos de projetos(não fiz outros testes, fica em aberto para quem tiver inteiresse). Para realizar o deploy da nossa WebApi vamos utilizar o docker, ele é essencial nesse processo, caso você não tenha instalado irei deixar link de um tutorial de como baixar, instalar e configura-lo.
+Nosso objetivo é criar uma WebApi .NET, adicionar suporte para Docker, subir a um repositório github, realizar deploy no Railway App e testar, o mesmo método deste tutorial pode ser usado para implementar projetos MVC e talvez outros tipos de projetos(não fiz outros testes, fica em aberto para quem tiver interesse). Para realizar o deploy da nossa WebApi vamos utilizar o docker, ele é essencial nesse processo, caso você não tenha instalado irei deixar link de um tutorial de como baixar, instalar e configura-lo. Para seguir com o deploy é necessário ter .NET e Docker instalados em sua máquina e uma IDE ou Editor de texto, abaixo disponizibilizarei alguns tutoriais caso não tenha algum dos itens mencionados.
 
 # Tutoriais
 
